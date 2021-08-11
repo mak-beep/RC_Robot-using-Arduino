@@ -1,6 +1,6 @@
 # RC_Robot-using-Arduino
 
-This Repository contains the arduino code file (i.e. *.ino) for a RC Robot controlled using Arduino along with an app's apk file to control the robot.
+This Repository contains the arduino code file (i.e. *.ino) for a RC Robot built using Arduino along with an app's apk file to control the robot.
 
 For this Robot, Components required are:
 1. Arduino
